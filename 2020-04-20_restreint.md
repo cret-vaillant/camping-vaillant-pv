@@ -4,7 +4,7 @@ Léo, Xavier, Joaquim, Etienne
 
 Lundi 20 avril, Hangouts
 
-## Décision
+## Décision
 
 En fonction des retours unanimes du groupe WhatsApp de la fête, nous décidons l'annulation de l'édition 2020 de la fête.
 
