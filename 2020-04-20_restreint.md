@@ -27,8 +27,31 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
 ### Responsabilité des annonces
 
 * [x] Comité : Léo
+* [ ] Fondation Sandoz
 * [x] Autorités (Conseil communal, voirie, SDP, Vaucher) : Léo 
-* [ ] Sponsors validé : Joaquim
+* [-] Sponsors validé : Joaquim
+  * [x] Adrien Steudler Ramonage Sàrl
+  * [x] AMJ Coiffure (--> option B)
+  * [x] AXA Winterthur
+  * [x] Bellarte
+  * [x] Boucherie Nicolet
+  * [x] Carline Sàrl
+  * [ ] Coiffure Femina Tiffounet
+  * [ ] Delay E. & Fils
+  * [ ] Emissa SA
+  * [ ] Entreprise de peinture Pino Leone
+  * [ ] Gainerie Vermot Sàrl
+  * [ ] Gérance Peruccio
+  * [ ] Gilbert Petit-Jean SA
+  * [ ] Jeanneret Pneus
+  * [ ] La Croisette
+  * [ ] Laiterie Loubry
+  * [ ] Magic Hands
+  * [ ] Mari'Look Coiffure
+  * [ ] Menuiserie Casati
+  * [ ] Parquet Rénovation
+  * [ ] Restaurant Le Ranch
+  * [ ] Terrini Peinture Sàrl
 * [ ] Sponsors en attente : Léo
 * [ ] Groupes de musique : Nicolas
 * [ ] Animation : Léo et Xavier
@@ -38,6 +61,7 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
 * [x] Réseaux sociaux : Etienne et Joaquim
 * [ ] Site internet : Joaquim
 * [ ] Habitants de la rue (affiche dans la vitrine) : Joaquim 
+* [ ] Bierir Grisoni
 
 Pour les sponsors qui ont déjà payé, la communication doit proposer le choix d'un remboursement.
 
