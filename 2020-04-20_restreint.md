@@ -27,7 +27,7 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
 ### Responsabilité des annonces
 
 * [x] Comité : Léo
-* [ ] Fondation Sandoz
+* [x] Fondation Sandoz
 * [x] Autorités (Conseil communal, voirie, SDP, Vaucher) : Léo 
 * [ ] Sponsors validés : Joaquim
   * [x] Adrien Steudler Ramonage Sàrl
@@ -52,16 +52,16 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
   * [ ] Parquet Rénovation
   * [ ] Restaurant Le Ranch
   * [ ] Terrini Peinture Sàrl
-* [ ] Sponsors en attente : Léo
-* [ ] Groupes de musique : Nicolas
-* [ ] Animation : Léo et Xavier
-* [ ] Achats : Domingos
-* [ ] Scène : Lobsang 
+* [x] Sponsors en attente : Léo
+* [x] Groupes de musique : Nicolas
+* [x] Animation : Léo et Xavier
+* [x] Achats : Domingos
+* [x] Scène : Lobsang 
 * [x] Presse : Etienne
 * [x] Réseaux sociaux : Etienne et Joaquim
 * [x] Site internet : Joaquim
 * [x] Habitants de la rue (affiche dans la vitrine) : Joaquim 
-* [ ] Bieri Grisoni
+* [x] Bieri Grisoni
 
 Pour les sponsors qui ont déjà payé, la communication doit proposer le choix d'un remboursement.
 
