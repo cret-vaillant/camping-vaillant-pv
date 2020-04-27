@@ -26,18 +26,18 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
 
 ### Responsabilité des annonces
 
-* Comité : Léo
-* Autorités (Conseil communal, voirie, SDP, Vaucher) : Léo 
-* Sponsors validé : Joaquim
-* Sponsors en attente : Léo
-* Groupes de musique : Nicolas
-* Animation : Léo et Xavier
-* Achats : Domingos
-* Scène : Lobsang 
-* Presse : Etienne
-* Réseaux sociaux : Etienne et Joaquim
-* Site internet : Joaquim
-* Habitants de la rue (affiche dans la vitrine) : Joaquim 
+* [x] Comité : Léo
+* [x] Autorités (Conseil communal, voirie, SDP, Vaucher) : Léo 
+* [ ] Sponsors validé : Joaquim
+* [ ] Sponsors en attente : Léo
+* [ ] Groupes de musique : Nicolas
+* [ ] Animation : Léo et Xavier
+* [ ] Achats : Domingos
+* [ ] Scène : Lobsang 
+* [x] Presse : Etienne
+* [x] Réseaux sociaux : Etienne et Joaquim
+* [ ] Site internet : Joaquim
+* [ ] Habitants de la rue (affiche dans la vitrine) : Joaquim 
 
 Pour les sponsors qui ont déjà payé, la communication doit proposer le choix d'un remboursement.
 
