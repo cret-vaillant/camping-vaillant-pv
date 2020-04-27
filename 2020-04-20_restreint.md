@@ -59,9 +59,9 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
 * [ ] Scène : Lobsang 
 * [x] Presse : Etienne
 * [x] Réseaux sociaux : Etienne et Joaquim
-* [ ] Site internet : Joaquim
-* [ ] Habitants de la rue (affiche dans la vitrine) : Joaquim 
-* [ ] Bierir Grisoni
+* [x] Site internet : Joaquim
+* [x] Habitants de la rue (affiche dans la vitrine) : Joaquim 
+* [ ] Bieri Grisoni
 
 Pour les sponsors qui ont déjà payé, la communication doit proposer le choix d'un remboursement.
 
