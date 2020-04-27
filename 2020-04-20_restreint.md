@@ -29,19 +29,19 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
 * [x] Comité : Léo
 * [ ] Fondation Sandoz
 * [x] Autorités (Conseil communal, voirie, SDP, Vaucher) : Léo 
-* [ ] Sponsors validé : Joaquim
+* [ ] Sponsors validés : Joaquim
   * [x] Adrien Steudler Ramonage Sàrl
   * [x] AMJ Coiffure (--> option B)
   * [x] AXA Winterthur
   * [x] Bellarte
   * [x] Boucherie Nicolet
   * [x] Carline Sàrl
-  * [ ] Coiffure Femina Tiffounet
-  * [ ] Delay E. & Fils
-  * [ ] Emissa SA
+  * [x] Coiffure Femina Tiffounet
+  * [x] Delay E. & Fils
+  * [x] Emissa SA
   * [ ] Entreprise de peinture Pino Leone
-  * [ ] Gainerie Vermot Sàrl
-  * [ ] Gérance Peruccio
+  * [x] Gainerie Vermot Sàrl
+  * [x] Gérance Peruccio
   * [ ] Gilbert Petit-Jean SA
   * [ ] Jeanneret Pneus
   * [ ] La Croisette
