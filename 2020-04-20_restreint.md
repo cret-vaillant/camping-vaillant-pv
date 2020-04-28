@@ -30,7 +30,7 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
 * [x] Fondation Sandoz
 * [x] Autorités (Conseil communal, voirie, SDP, Vaucher) : Léo 
 * [ ] Sponsors validés : Joaquim
-  * [x] Adrien Steudler Ramonage Sàrl
+  * [x] Adrien Steudler Ramonage Sàrl (--> option B)
   * [x] AMJ Coiffure (--> option B)
   * [x] AXA Winterthur (--> B)
   * [x] Bellarte
