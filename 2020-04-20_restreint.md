@@ -32,13 +32,13 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
 * [ ] Sponsors validés : Joaquim
   * [x] Adrien Steudler Ramonage Sàrl
   * [x] AMJ Coiffure (--> option B)
-  * [x] AXA Winterthur
+  * [x] AXA Winterthur (--> B)
   * [x] Bellarte
   * [x] Boucherie Nicolet
   * [x] Carline Sàrl
   * [x] Coiffure Femina Tiffounet
   * [x] Delay E. & Fils
-  * [x] Emissa SA
+  * [x] Emissa SA (--> B)
   * [ ] Entreprise de peinture Pino Leone
   * [x] Gainerie Vermot Sàrl
   * [x] Gérance Peruccio
