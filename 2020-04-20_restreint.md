@@ -34,23 +34,23 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
   * [x] AMJ Coiffure (--> option B)
   * [x] AXA Winterthur (--> B)
   * [x] Bellarte
-  * [x] Boucherie Nicolet
-  * [x] Carline Sàrl
+  * [x] Boucherie Nicolet (--> B)
+  * [x] Carline Sàrl (--> B)
   * [x] Coiffure Femina Tiffounet
-  * [x] Delay E. & Fils
+  * [x] Delay E. & Fils (--> B)
   * [x] Emissa SA (--> B)
   * [ ] Entreprise de peinture Pino Leone
-  * [x] Gainerie Vermot Sàrl
+  * [x] Gainerie Vermot Sàrl (--> B)
   * [x] Gérance Peruccio
-  * [ ] Gilbert Petit-Jean SA
-  * [ ] Jeanneret Pneus
-  * [ ] La Croisette
+  * [x] Gilbert Petit-Jean SA
+  * [x] Jeanneret Pneus
+  * [x] La Croisette
   * [ ] Laiterie Loubry
-  * [ ] Magic Hands
-  * [ ] Mari'Look Coiffure
-  * [ ] Menuiserie Casati
+  * [x] Magic Hands
+  * [x] Mari'Look Coiffure
+  * [x] Menuiserie Casati
   * [ ] Parquet Rénovation
-  * [ ] Restaurant Le Ranch
+  * [x] Restaurant Le Ranch
   * [ ] Terrini Peinture Sàrl
 * [x] Sponsors en attente : Léo
 * [x] Groupes de musique : Nicolas
