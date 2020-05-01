@@ -43,12 +43,12 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
   * [x] Gainerie Vermot Sàrl (--> B)
   * [x] Gérance Peruccio
   * [x] Gilbert Petit-Jean SA
-  * [x] Jeanneret Pneus
-  * [x] La Croisette
+  * [x] Jeanneret Pneus (--> B)
+  * [x] La Croisette (--> B)
   * [ ] Laiterie Loubry
   * [x] Magic Hands
   * [x] Mari'Look Coiffure
-  * [x] Menuiserie Casati
+  * [x] Menuiserie Casati (--> B)
   * [ ] Parquet Rénovation
   * [x] Restaurant Le Ranch
   * [ ] Terrini Peinture Sàrl
