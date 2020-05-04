@@ -46,7 +46,7 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
   * [x] Jeanneret Pneus (--> B)
   * [x] La Croisette (--> B)
   * [ ] Laiterie Loubry
-  * [x] Magic Hands
+  * [x] Magic Hands (--> B)
   * [x] Mari'Look Coiffure (--> B)
   * [x] Menuiserie Casati (--> B)
   * [ ] Parquet Rénovation
