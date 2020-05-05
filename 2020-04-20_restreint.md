@@ -39,7 +39,7 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
   * [x] Coiffure Femina Tiffounet
   * [x] Delay E. & Fils (--> B)
   * [x] Emissa SA (--> B)
-  * [x] Entreprise de peinture Pino Leone
+  * [x] Entreprise de peinture Pino Leone (--> B)
   * [x] Gainerie Vermot Sàrl (--> B)
   * [x] Gérance Peruccio
   * [x] Gilbert Petit-Jean SA (--> B)
