@@ -49,7 +49,7 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
   * [x] Magic Hands (--> B)
   * [x] Mari'Look Coiffure (--> B)
   * [x] Menuiserie Casati (--> B)
-  * [ ] Parquet Rénovation
+  * [x] Parquet Rénovation (--> B)
   * [x] Restaurant Le Ranch
   * [ ] Terrini Peinture Sàrl
 * [x] Sponsors en attente : Léo
