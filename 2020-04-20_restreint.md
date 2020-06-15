@@ -51,7 +51,7 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
   * [x] Menuiserie Casati (--> B)
   * [x] Parquet Rénovation (--> B)
   * [x] Restaurant Le Ranch
-  * [ ] Terrini Peinture Sàrl
+  * [x] Terrini Peinture Sàrl (--> B)
 * [x] Sponsors en attente : Léo
 * [x] Groupes de musique : Nicolas
 * [x] Animation : Léo et Xavier
