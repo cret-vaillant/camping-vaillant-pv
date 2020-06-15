@@ -33,7 +33,7 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
   * [x] Adrien Steudler Ramonage Sàrl (--> option B)
   * [x] AMJ Coiffure (--> option B)
   * [x] AXA Winterthur (--> B)
-  * [x] Bellarte
+  * [x] Bellarte (message répondeur)
   * [x] Boucherie Nicolet (--> B)
   * [x] Carline Sàrl (--> B)
   * [x] Coiffure Femina Tiffounet
