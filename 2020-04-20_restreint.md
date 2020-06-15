@@ -41,7 +41,7 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
   * [x] Emissa SA (--> B)
   * [x] Entreprise de peinture Pino Leone (--> B)
   * [x] Gainerie Vermot Sàrl (--> B)
-  * [x] Gérance Peruccio
+  * [x] Gérance Peruccio (--> B, Xavier)
   * [x] Gilbert Petit-Jean SA (--> B)
   * [x] Jeanneret Pneus (--> B)
   * [x] La Croisette (--> B)
