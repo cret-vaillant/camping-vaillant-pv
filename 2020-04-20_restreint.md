@@ -36,7 +36,7 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
   * [x] Bellarte (message répondeur)
   * [x] Boucherie Nicolet (--> B)
   * [x] Carline Sàrl (--> B)
-  * [x] Coiffure Femina Tiffounet
+  * [x] Coiffure Femina Tiffounet (pas de réponse téléphone, relance sur facebook)
   * [x] Delay E. & Fils (--> B)
   * [x] Emissa SA (--> B)
   * [x] Entreprise de peinture Pino Leone (--> B)
