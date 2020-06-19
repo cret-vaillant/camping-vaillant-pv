@@ -29,14 +29,14 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
 * [x] Comité : Léo
 * [x] Fondation Sandoz
 * [x] Autorités (Conseil communal, voirie, SDP, Vaucher) : Léo 
-* [ ] Sponsors validés : Joaquim
+* [x] Sponsors validés : Joaquim
   * [x] Adrien Steudler Ramonage Sàrl (--> option B)
   * [x] AMJ Coiffure (--> option B)
   * [x] AXA Winterthur (--> B)
   * [x] Bellarte (message répondeur)
   * [x] Boucherie Nicolet (--> B)
   * [x] Carline Sàrl (--> B)
-  * [x] Coiffure Femina Tiffounet (pas de réponse téléphone, relance sur facebook)
+  * [x] Coiffure Femina Tiffounet (pas de réponse téléphone, relance sur facebook --> B)
   * [x] Delay E. & Fils (--> B)
   * [x] Emissa SA (--> B)
   * [x] Entreprise de peinture Pino Leone (--> B)
@@ -45,12 +45,12 @@ La communication officielle se fera le lundi 27 avril, à 17h. Le but est d'anno
   * [x] Gilbert Petit-Jean SA (--> B)
   * [x] Jeanneret Pneus (--> B)
   * [x] La Croisette (--> B)
-  * [ ] Laiterie Loubry
+  * [x] Laiterie Loubry (--> B)
   * [x] Magic Hands (--> B)
   * [x] Mari'Look Coiffure (--> B)
   * [x] Menuiserie Casati (--> B)
   * [x] Parquet Rénovation (--> B)
-  * [x] Restaurant Le Ranch
+  * [x] Restaurant Le Ranch (--> B)
   * [x] Terrini Peinture Sàrl (--> B)
 * [x] Sponsors en attente : Léo
 * [x] Groupes de musique : Nicolas
