@@ -8,7 +8,7 @@ Léo et Jojo, 28 septembre 2020, 19h30, chez Léo.
 
 - [ ] Mettre petit communiqué sur fb/insta/site pour dire qu'on bosse.
 
-- [ ] Changement de date officiel
+- [x] Changement de date officiel
 
 ## Comité
 
@@ -28,7 +28,7 @@ Tour de table, comment vous voyez la chose ?
 
 ### Loterie Romande
 
-- [ ] Mettre à jour le dossier de candidature.
+- [x] Mettre à jour le dossier de candidature.
 
 ## Décoration
 
