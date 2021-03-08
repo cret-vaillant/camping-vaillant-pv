@@ -6,3 +6,7 @@ Envoi d'une nouvelle demande au Casino de Neuchâtel.
 
 Problème de dynamique lors des séances du comité, certains ne voient pas l'intérêt de se déplacer.
 Pour la prochaine, réfléchir à mieux inclure tout le monde dans la discussion et les projets, prendre des décisions, désigner des responsables.
+
+
+
+tags: restreint

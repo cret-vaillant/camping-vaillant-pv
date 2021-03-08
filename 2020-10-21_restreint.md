@@ -31,7 +31,6 @@ Idée Emeline -> st Nicolas, soupe, vin chaud, etc..
 
 Aurélien prépare des trucs
 
-## Décathlon
 
 
-
+tags: restreint
