@@ -42,7 +42,7 @@ Message Whatsapp:
     Résultat: beeen, c'est toujours bien compliqué d'envisager la suite...
 
     On a préparé un petit sondage pour récolter votre opinion concernant la suite: https://forms.gle/EGgkcmc4Quv7SKiN6. On suggère quelques stratégies, vous pouvez aussi proposer la votre.
-    Ce serait cool que tout le monde prenne une minute pour y répondre. C'est anonyme.
+    Ce serait cool que tout le monde prenne 5 minutes pour y réfléchir et répondre. C'est anonyme.
 
     On propose, un peu comme on l'avait fait l'année dernière, de fixer un délai à deux mois avant la fête, auquel on devra décider du maintien de la fête. Donc en gros le 18 avril, soit on rush pour pondre une fête en deux mois, soit on reporte.
 
