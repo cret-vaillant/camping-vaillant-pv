@@ -56,4 +56,4 @@ Idée à la con: Des affiches avec pas de date, et allez voir la date sur le sit
 Léo: 3 deadlines: avril, mai, juin. Si en juin on ne peut pas programmer pour septembre, on repousse à 2022.
 
 
-tags: restreint
+tags: restreint, corona
