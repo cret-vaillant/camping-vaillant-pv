@@ -10,10 +10,10 @@ Impliquer les gens, prendre des décisions. Eviter que les gens aient l'impressi
 
 ### Idées de projets
 
-Hymne de la fête
-Magazine
-Objet promotionnel, faire un récap, désigner responsables
-Stand photomation
+* Hymne de la fête
+* agazine
+* Objet promotionnel, faire un récap, désigner responsables
+* Stand photomation
 
 ## AG du Crêt-Vaillant
 
