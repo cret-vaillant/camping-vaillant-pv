@@ -34,21 +34,21 @@ Sondage: https://docs.google.com/forms/d/10zGOFBYFwRitnD080ynbFPdKwhvq_oiwHEzC8z
 
 Message Whatsapp:
 
-  Coucou les copains, coucou les copines,
+    Coucou les copains, coucou les copines,
 
-  Ça fait longtemps qu'on s'est pas parlé, j'espère que tout le monde va bien.
+    Ça fait longtemps qu'on s'est pas parlé, j'espère que tout le monde va bien.
 
-  On s'est réuni ce week-end avec Xa et Léo pour parler de la fête.
-  Résultat: beeen, c'est toujours bien compliqué d'envisager la suite...
+    On s'est réuni ce week-end avec Xa et Léo pour parler de la fête.
+    Résultat: beeen, c'est toujours bien compliqué d'envisager la suite...
 
-  On a préparé un petit sondage pour récolter votre opinion concernant la suite: https://forms.gle/EGgkcmc4Quv7SKiN6. On suggère quelques stratégies, vous pouvez aussi proposer la votre.
-  Ce serait cool que tout le monde prenne une minute pour y répondre. C'est anonyme.
+    On a préparé un petit sondage pour récolter votre opinion concernant la suite: https://forms.gle/EGgkcmc4Quv7SKiN6. On suggère quelques stratégies, vous pouvez aussi proposer la votre.
+    Ce serait cool que tout le monde prenne une minute pour y répondre. C'est anonyme.
 
-  On propose, un peu comme on l'avait fait l'année dernière, de fixer un délai à deux mois avant la fête, auquel on devra décider du maintien de la fête. Donc en gros le 18 avril, soit on rush pour pondre une fête en deux mois, soit on reporte.
+    On propose, un peu comme on l'avait fait l'année dernière, de fixer un délai à deux mois avant la fête, auquel on devra décider du maintien de la fête. Donc en gros le 18 avril, soit on rush pour pondre une fête en deux mois, soit on reporte.
 
-  Jusque là, comme on peut se réunir à l'extérieur. On pensait organiser des journées "atelier" pour bosser sur la fête et notamment les décors. On vous redonne des nouvelles...
+    Jusque là, comme on peut se réunir à l'extérieur. On pensait organiser des journées "atelier" pour bosser sur la fête et notamment les décors. On vous redonne des nouvelles...
 
-  Merci à tous, courage et à bientôt j'espère !
+    Merci à tous, courage et à bientôt j'espère !
 
 
 Idée à la con: Des affiches avec pas de date, et allez voir la date sur le site. Sur le site, la date change tous les jours.
