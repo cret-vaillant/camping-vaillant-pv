@@ -27,6 +27,30 @@ Léo voudrait faire des tournages cet été.
 
 Même responsabilité que pour le premier report: https://cret-vaillant.ch/pvreader/#/2020-04-20_restreint.md
 
+### Sponsors
 
+* [ ] Adrien Steudler Ramonage Sàrl
+* [ ] AMJ Coiffure
+* [ ] AXA Winterthur
+* [ ] Bellarte
+* [ ] Boucherie Nicolet
+* [ ] Carline Sàrl
+* [ ] Coiffure Femina Tiffounet
+* [ ] Delay E. & Fils
+* [ ] Emissa SA
+* [ ] Entreprise de peinture Pino Leone
+* [ ] Gainerie Vermot Sàrl
+* [ ] Gérance Peruccio
+* [ ] Gilbert Petit-Jean SA
+* [ ] Jeanneret Pneus
+* [ ] La Croisette
+* [ ] Laiterie Loubry
+* [ ] Magic Hands
+* [ ] Mari'Look Coiffure
+* [ ] Menuiserie Casati
+* [ ] Parquet Rénovation
+* [ ] Qualitech
+* [ ] Restaurant Le Ranch
+* [ ] Terrini Peinture Sàrl
 
 tags: restreint, corona
